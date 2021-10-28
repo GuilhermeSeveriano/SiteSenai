@@ -1,0 +1,11 @@
+.container-footer {
+    font-family: 'Source Sans Pro', sans-serif;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 3.5em;
+    background-color: #F8433F;
+    color: #FFF;
+    font-weight: bolder;
+}

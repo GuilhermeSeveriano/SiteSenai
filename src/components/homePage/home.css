@@ -1,0 +1,10 @@
+.container-home {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+    height: calc(100vh - (5em + 3.5em));
+    padding: 8px 20px;
+
+    background-color: #eeeeee;
+}
